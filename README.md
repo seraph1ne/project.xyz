@@ -1,5 +1,5 @@
 # project.xyz
-**Simple home site template based on html and css**
+**Simple home site template based on html and css.**
 
 > `Wasy to set up and free to use! :)`
 > `It is not obligatory to mention me in the sites derived from this project.`
